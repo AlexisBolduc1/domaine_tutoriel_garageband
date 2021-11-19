@@ -5,9 +5,10 @@
 
 > Page d'ouverture de Garageband
 
-### 2. Appuyer sur le plus afin de choisir le type de piste
+### 2. Appuyer sur le plus afin de choisir le type de piste (Option + Commande + N)
 
 <img width="1440" alt="Capture d’écran, le 2021-11-13 à 13 59 49" src="https://user-images.githubusercontent.com/93773484/141656960-4e7a199b-dc3f-46c1-8e6f-cab1b8c1a4b2.png">
+Vous pouvez aussi aller dans Choisissez Piste > Nouvelle piste
 
 Choisir entre l'instrument logiciel, le microphone, l'instrument branché ainsi que le batteur.
 
